@@ -1,0 +1,44 @@
+[
+  {
+    "id": "01",
+    "name": "MERN Stack",
+    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--Vo8y8ee_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/isruki85zt7ps3na1hda.jpg",
+    "description": "MERN is one of several variations of the MEAN stack (MongoDB Express Angular Node), where the traditional Angular frontend framework is replaced with React JS. The main benefit of using MERN is the integration of React and its powerful library and capability to use code simultaneously on servers and browsers. Additionally, it has phenomenal full-stack development (front-end and backend) possibilities. Besides, React utilizes JavaScript XML and Virtual DOM, and these components work and implement changes seamlessly.",
+    "mentor": "Mr X"
+  },
+  {
+    "id": "02",
+    "name": "MEAN Stack",
+    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--KL4-uVFe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s6pykr89ib22n0a3jczp.jpg",
+    "description": "MEAN is a free and open-source JavaScript software stack for building dynamic websites and web applications. Because all components of the MEAN stack support programs are written in JavaScript. Besides, experts consider MEAN technology the best for web development due to its various benefits. It’s comprised of MongoDB (a NoSQL DB), Express.js (a backend web framework), Angular (a front-end framework), and Node.js (an open-source cross-platform server), and can be used for developing complex mobile and responsive web applications.",
+    "mentor": "Mr Y"
+  },
+  {
+    "id": "03",
+    "name": "PERN Stack",
+    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--1gg9c7fV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r5u8lto96irebhgvno9c.png",
+    "description": "This stack consists of PostgreSQL, Express, React, and Node.js. Combining these technologies, you can as well build a full-stack web application with CRUD operations.",
+    "mentor": "Mr P"
+  },
+  {
+    "id": "04",
+    "name": "LAMP Stack",
+    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--qQLGnM7C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x57o1pb2ymbkyurzwyow.jpg",
+    "description": "LAMP is an old classic industry standard when it comes to time-tested web development stacks, which comprises MySQL (Relational Database Management), Linux (Operating System), PHP (Programming Language), and Apache (HTTP server). It is open-source and available for free. The stack runs efficiently on all operating systems. In web development, it provides the website with the best performance, cost efficiency, and flexibility. Besides, its components can be interchanged or modified within the same stack. LAMP refers now to a generic software stack model and its components are largely interchangeable.",
+    "mentor": "Mr L"
+  },
+  {
+    "id": "05",
+    "name": "MEVN Stack",
+    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--fIW3yK4X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nsrhwx48nzoefly8gbpc.png",
+    "description": "Other variants of MEAN Stack, the MEVN Stack (MongoDB, Express, Vue, Node), and really any frontend JavaScript framework can work.It is the open-source JavaScript software stack that has emerged as a new and evolving way to build powerful and dynamic web applications. Besides, its software components can be used to effectively design frontend and backend development and improve the functionality of your website or app.",
+    "mentor": "Mr V"
+  },
+  {
+    "id": "06",
+    "name": "RubyOnRail Stack",
+    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--f6mMrFDP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4rl45wo5kjb5p58nmyt8.png",
+    "description": "Ruby on Rails (RoR) is a developer-friendly web development stack. It is an open-source, dynamic programming language. Besides, RoR facilitates the development of lightweight applications that increase flexibility.Furthermore, the stack works in tandem with HTML, CSS, and JavaScript for creating interactive user interfaces, and XML or JSON for data transfer. Also, it allows the use of default structures for web pages and database management. It also provides developers with a detailed error log to build bug-free applications.",
+    "mentor": "Mr X"
+  }
+]
