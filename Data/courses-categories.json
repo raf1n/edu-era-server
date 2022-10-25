@@ -1,30 +1,32 @@
 [
   {
     "id": "01",
-    "name": "MERN Stack"
+    "name": "MERN Stack",
+    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--Vo8y8ee_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/isruki85zt7ps3na1hda.jpg"
   },
   {
     "id": "02",
-    "name": "MEAN Stack"
+    "name": "MEAN Stack",
+    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--KL4-uVFe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/s6pykr89ib22n0a3jczp.jpg"
   },
   {
     "id": "03",
-    "name": "PERN Stack"
+    "name": "PERN Stack",
+    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--1gg9c7fV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/r5u8lto96irebhgvno9c.png"
   },
   {
     "id": "04",
-    "name": "LAMP Stack"
+    "name": "LAMP Stack",
+    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--qQLGnM7C--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/x57o1pb2ymbkyurzwyow.jpg"
   },
   {
     "id": "05",
-    "name": "MEVN Stack"
+    "name": "MEVN Stack",
+    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--fIW3yK4X--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nsrhwx48nzoefly8gbpc.png"
   },
   {
     "id": "06",
-    "name": "RubyOnRail Stack"
-  },
-  {
-    "id": "07",
-    "name": "All Stack"
+    "name": "RubyOnRail Stack",
+    "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--f6mMrFDP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4rl45wo5kjb5p58nmyt8.png"
   }
 ]

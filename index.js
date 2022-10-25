@@ -16,12 +16,8 @@ app.get("/courses-categories", (req, res) => {
 
 app.get("/course/:id", (req, res) => {
   const id = req.params.id;
-  if (id === "07") {
-    res.send(courseDetails);
-  } else {
-    const selectedCourse = courseDetails.find((cd) => cd.id === id);
-    res.send(selectedCourse);
-  }
+  const selectedCourse = courseDetails.find((cd) => cd.id === id);
+  res.send(selectedCourse);
 });
 
 app.listen(port, () => {
