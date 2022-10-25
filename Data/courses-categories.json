@@ -1,0 +1,30 @@
+[
+  {
+    "id": "01",
+    "name": "MERN Stack"
+  },
+  {
+    "id": "02",
+    "name": "MEAN Stack"
+  },
+  {
+    "id": "03",
+    "name": "PERN Stack"
+  },
+  {
+    "id": "04",
+    "name": "LAMP Stack"
+  },
+  {
+    "id": "05",
+    "name": "MEVN Stack"
+  },
+  {
+    "id": "06",
+    "name": "RubyOnRail Stack"
+  },
+  {
+    "id": "07",
+    "name": "All Stack"
+  }
+]

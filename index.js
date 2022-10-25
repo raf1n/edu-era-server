@@ -1,9 +1,17 @@
 const express = require("express");
 const app = express();
-const port = 5000;
+const cors = require("cors");
+const port = process.env.PORT || 5000;
+app.use(cors());
+
+const courseCategories = require("./Data/courses-categories.json");
 
 app.get("/", (req, res) => {
-  res.send("Hello World!");
+  res.send("Api running fine!");
+});
+
+app.get("/courses-categories", (req, res) => {
+  res.send(courseCategories);
 });
 
 app.listen(port, () => {
