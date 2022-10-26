@@ -6,7 +6,8 @@
     "description": "MERN is one of several variations of the MEAN stack (MongoDB Express Angular Node), where the traditional Angular frontend framework is replaced with React JS. The main benefit of using MERN is the integration of React and its powerful library and capability to use code simultaneously on servers and browsers. Additionally, it has phenomenal full-stack development (front-end and backend) possibilities. Besides, React utilizes JavaScript XML and Virtual DOM, and these components work and implement changes seamlessly.",
     "mentor": "Mr X",
     "rating": 4.7,
-    "enrolled": "9K"
+    "enrolled": "9K",
+    "price": "200$"
   },
   {
     "id": "02",
@@ -15,7 +16,8 @@
     "description": "MEAN is a free and open-source JavaScript software stack for building dynamic websites and web applications. Because all components of the MEAN stack support programs are written in JavaScript. Besides, experts consider MEAN technology the best for web development due to its various benefits. It’s comprised of MongoDB (a NoSQL DB), Express.js (a backend web framework), Angular (a front-end framework), and Node.js (an open-source cross-platform server), and can be used for developing complex mobile and responsive web applications.",
     "mentor": "Mr Y",
     "rating": 4.7,
-    "enrolled": "5K"
+    "enrolled": "5K",
+    "price": "100$"
   },
   {
     "id": "03",
@@ -24,7 +26,8 @@
     "description": "This stack consists of PostgreSQL, Express, React, and Node.js. Combining these technologies, you can as well build a full-stack web application with CRUD operations.",
     "mentor": "Mr P",
     "rating": 4.7,
-    "enrolled": "6K"
+    "enrolled": "6K",
+    "price": "150$"
   },
   {
     "id": "04",
@@ -33,7 +36,8 @@
     "description": "LAMP is an old classic industry standard when it comes to time-tested web development stacks, which comprises MySQL (Relational Database Management), Linux (Operating System), PHP (Programming Language), and Apache (HTTP server). It is open-source and available for free. The stack runs efficiently on all operating systems. In web development, it provides the website with the best performance, cost efficiency, and flexibility. Besides, its components can be interchanged or modified within the same stack. LAMP refers now to a generic software stack model and its components are largely interchangeable.",
     "mentor": "Mr L",
     "rating": 4.7,
-    "enrolled": "3K"
+    "enrolled": "3K",
+    "price": "250$"
   },
   {
     "id": "05",
@@ -42,7 +46,8 @@
     "description": "Other variants of MEAN Stack, the MEVN Stack (MongoDB, Express, Vue, Node), and really any frontend JavaScript framework can work.It is the open-source JavaScript software stack that has emerged as a new and evolving way to build powerful and dynamic web applications. Besides, its software components can be used to effectively design frontend and backend development and improve the functionality of your website or app.",
     "mentor": "Mr V",
     "rating": 4.7,
-    "enrolled": "4K"
+    "enrolled": "4K",
+    "price": "300$"
   },
   {
     "id": "06",
@@ -51,6 +56,7 @@
     "description": "Ruby on Rails (RoR) is a developer-friendly web development stack. It is an open-source, dynamic programming language. Besides, RoR facilitates the development of lightweight applications that increase flexibility.Furthermore, the stack works in tandem with HTML, CSS, and JavaScript for creating interactive user interfaces, and XML or JSON for data transfer. Also, it allows the use of default structures for web pages and database management. It also provides developers with a detailed error log to build bug-free applications.",
     "mentor": "Mr X",
     "rating": 4.7,
-    "enrolled": "6K"
+    "enrolled": "6K",
+    "price": "220$"
   }
 ]
